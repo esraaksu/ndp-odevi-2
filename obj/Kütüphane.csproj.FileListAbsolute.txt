@@ -1,0 +1,10 @@
+C:\Users\sesra\source\repos\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\sesra\source\repos\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\sesra\source\repos\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\sesra\source\repos\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\sesra\source\repos\Kütüphane\obj\Debug\Kütüphane.Form1.resources
+C:\Users\sesra\source\repos\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\sesra\source\repos\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\sesra\source\repos\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\sesra\source\repos\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\sesra\source\repos\Kütüphane\obj\Debug\Kütüphane.Form2.resources
